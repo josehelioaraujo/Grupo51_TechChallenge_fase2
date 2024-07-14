@@ -1,0 +1,146 @@
+ Olá a todos,
+ 
+Damos nossas boas-vindas a esta breve introdução do projeto do Tech Challenge Fase 2,
+da primeira turma do curso de pós-graduação em Inteligência Artificial para Desenvolvedores da Fiap.
+
+O objetivo deste trabalho é implementar uma solução de um problema de otimização de rotas usando algoritmos genéticos.
+
+Para tal, criamos uma aplicação de um Otimizador de Rotas das Cidades Brasileiras.
+ que utiliza algoritmos genéticos para obter a melhor e eficiente rota entre as cidades.
+
+Utilizamos um conjunto de dados estático no formato CSV  obtido na plataforma do quegol,
+ que contém  todas as cidades brasileiras,  com informações, tais como latitude e longitude, 
+ e que serão utilizadas nos cálculos das distancias percorridas entre as cidades.
+ 
+Dividimos a apresentação do projeto em 5 partes, que são:
+- Introdução, 
+- o que são algoritmos genéticos,
+- Implementação, 
+- testes e resultados, 
+- E por fim, as conclusões.
+
+Na primeira parte 'Introdução', sua importância em logística e otimização de rotas.
+ e comparamos seu desempenho com um algoritmo usando força bruta.
+ 
+Para o nosso projeto, escolhemos resolver o  problema de 'Otimização de rotas", 
+e para tal, implementamos uma solução, que utiliza um algoritmo genético 
+para  encontrar a rota mais curta que passa por todas as cidades 
+selecionadas,  a partir de um conjunto de dados estático, retornando ao ponto de partida.
+
+  Na segunda parte 'o que são algoritmos genéticos', explicamos os conceitos básicos, como:
+- seleção,
+- cruzamento
+- e mutação. 
+- Os algoritmos genéticos são uma técnica de otimização inspirada na evolução natural.
+
+ Eles funcionam simulando uma população de indivíduos que evoluem ao longo de gerações,
+ combinando e modificando suas características para se adaptar melhor ao ambiente.
+
+Na terceira parte, fizemos a Implementação  do algoritmo genético 
+e de força bruta em Python.
+Descrevemos as principais funções utilizadas que foram criadas, tais como:
+-  uma função Calcular as distâncias,
+-  outra para Criar população inicial,
+-  outra para fazer  avaliação de indivíduos 
+- e por fim, uma para  selecionar as melhores rotas.
+  
+ Para fins de comparação, usamos um algoritmo convencional, que usa força bruta,  e que testa todas as permutações possíveis de rotas, 
+ enquanto os algoritmos genéticos usam, 
+as etapas de  seleção, cruzamento, e mutação para gerar novas soluções.
+ 
+ Continuando na  quarta parte,  que fala dos testes e resultados, 
+ apresentamos os resultados dos experimentos realizados,
+ comparando o desempenho do algoritmos genético com o  de força bruta, em termos de,
+ - tempo de execução  e qualidade das soluções encontradas. 
+   
+ Na segunda parte 'o que são algoritmos genéticos', explicamos os conceitos básicos, como:
+- seleção,
+- cruzamento
+- e mutação. 
+- Os algoritmos genéticos são uma técnica de otimização inspirada na evolução natural.
+
+ Eles funcionam simulando uma população de indivíduos que evoluem ao longo de gerações,
+ combinando e modificando suas características para se adaptar melhor ao ambiente.
+
+Na terceira parte, fizemos a Implementação  do algoritmo genético 
+e de força bruta em Python.
+Descrevemos as principais funções utilizadas que foram criadas, tais como:
+-  uma função Calcular as distâncias,
+-  outra para Criar população inicial,
+-  outra para fazer  avaliação de indivíduos 
+-  e por fim, uma para  selecionar as melhores rotas.
+  
+ Para fins de comparação, usamos um algoritmo convencional, que usa força bruta,  e que testa todas as permutações possíveis de rotas, 
+ enquanto os algoritmos genéticos usam, 
+as etapas de  seleção, cruzamento, e mutação para gerar novas soluções.
+ 
+ Continuando na  quarta parte,  que fala dos testes e resultados, 
+ apresentamos os resultados dos experimentos realizados,
+ comparando o desempenho do algoritmos genético com o  de força bruta, em termos de,
+ - tempo de execução  e qualidade das soluções encontradas. 
+   
+ Na segunda parte 'o que são algoritmos genéticos', explicamos os conceitos básicos, como:
+- seleção,
+- cruzamento
+- e mutação. 
+- Os algoritmos genéticos são uma técnica de otimização inspirada na evolução natural.
+
+ Eles funcionam simulando uma população de indivíduos que evoluem ao longo de gerações,
+ combinando e modificando suas características para se adaptar melhor ao ambiente.
+
+Na terceira parte, fizemos a Implementação  do algoritmo genético 
+e de força bruta em Python.
+Descrevemos as principais funções utilizadas que foram criadas, tais como:
+ -  uma função Calcular as distâncias,
+-  outra para Criar população inicial,
+ -  outra para fazer  avaliação de indivíduos 
+ - e por fim, uma para  selecionar as melhores rotas.
+  
+ Para fins de comparação, usamos um algoritmo convencional, que usa força bruta,  e que testa todas as permutações possíveis de rotas, 
+ enquanto os algoritmos genéticos usam, 
+as etapas de  seleção, cruzamento, e mutação para gerar novas soluções.
+ 
+ Continuando na  quarta parte,  que fala dos testes e resultados, 
+ apresentamos os resultados dos experimentos realizados,
+ comparando o desempenho do algoritmos genético com o  de força bruta, em termos de,
+ - tempo de execução  e qualidade das soluções encontradas. 
+   
+ Na segunda parte 'o que são algoritmos genéticos', explicamos os conceitos básicos, como:
+- seleção,
+- cruzamento
+- e mutação. 
+- Os algoritmos genéticos são uma técnica de otimização inspirada na evolução natural.
+
+ Eles funcionam simulando uma população de indivíduos que evoluem ao longo de gerações,
+ combinando e modificando suas características para se adaptar melhor ao ambiente.
+
+Na terceira parte, fizemos a Implementação  do algoritmo genético 
+e de força bruta em Python.
+Descrevemos as principais funções utilizadas que foram criadas, tais como:
+ -  uma função Calcular as distâncias,
+-  outra para Criar população inicial,
+ -  outra para fazer  avaliação de indivíduos 
+ - e por fim, uma para  selecionar as melhores rotas.
+  
+ Para fins de comparação, usamos um algoritmo convencional, que usa força bruta,  e que testa todas as permutações possíveis de rotas, 
+ enquanto os algoritmos genéticos usam, 
+as etapas de  seleção, cruzamento, e mutação para gerar novas soluções. 
+ 
+ Continuando na  quarta parte,  que fala dos testes e resultados, 
+ apresentamos os resultados dos experimentos realizados,
+ comparando o desempenho do algoritmos genético com o  de força bruta, em termos de,
+ - tempo de execução  e qualidade das soluções encontradas. 
+  
+E para finalizar,  nesse projeto,  tivemos uma oportunidade valiosa,  para aprender sobre a teoria e a prática, de algorítmos genéticos, pois eles são,  instrumentos poderosos para resolver,  problemas complexos,
+Especificamente,  no nosso caso,  que escolhemos,  um problema de otimização de rotas para resolver.
+
+ Aprendemos também,  que este tipo de solução,  tem várias aplicações em cenários reais,
+tais como,  empresas de logísticas,  entregas de produtos,  e-commerce,  empresas de varejos em geral,
+e muitas outras aplicações,  que tenham problemas complexos para resolver.
+
+Nos colocamos a disposição,  para qualquer dúvida ou sugestão!
+
+Obrigado pela atenção e até logo!
+
+ 
+ 
