@@ -129,3 +129,10 @@ Após realizados os testes com diferentes entradas, diferentes números de cidad
 - Além disso foi possível constatar que, o algoritmo de força bruta teve um tempo menor de processamento para os casos com poucas cidades, até 8 cidades.
 
 - Entretanto, o algorítmo genético manteve a constância do tempo de execução mesmo com uma maior quantidades de cidades, dessa forma, para um maior número de cidades o algoritmo genético consegue se sair melhor do que o de força bruta.
+
+ # Recursos adicionais
+ 
+ - [Conversor texto para audio usado na narração do video](https://crikk.com/text-to-speech/portuguese/)
+ - **OBS Studio** - usado na gravação do video de apresentação.
+ - **DaVinci Resolve** - usado na montagem e edição do video de apresentação.
+ - Os arquivos de texto e audio narração e video de apresentação estão na pasta raiz desse repositório.
