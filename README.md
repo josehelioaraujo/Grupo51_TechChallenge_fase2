@@ -1,11 +1,11 @@
 # Grupo51_TechChallenge_fase2
 Repositório para o Tech Challenge Fase 2 do Pós Fiap - AI para Devs
 
-# Enunciado do Problema
+# Projeto
 
 **Objetivo**
 
-> Este projeto tem como objetivo a solução de um problema relacionado ao **Tech Challenge Fase 2**, do curso de **Pós Graduação de Inteligência Artificial para Desenvolvedores** da Fiap.
+> Repositório para  projeto relacionado ao  **Tech Challenge Fase 2**, do curso de **Pós Graduação de Inteligência Artificial para Desenvolvedores** da Fiap.
 
 **Definição do problema**
 
