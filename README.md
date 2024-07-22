@@ -1,32 +1,57 @@
-# Grupo51_TechChallenge_fase2
-Repositório para o Tech Challenge Fase 2 do Pós Fiap - AI para Devs
+## **Projeto Tech Challenge Fase 2**
 
-# Projeto
+### **Introdução**
 
-**Objetivo**
+Este projeto está relacionado ao **Tech Challenge Fase 2**, do curso de **Pós-Graduação em Inteligência Artificial para Desenvolvedores** da **FIAP**.
 
-> Repositório para  projeto relacionado ao  **Tech Challenge Fase 2**, do curso de **Pós Graduação de Inteligência Artificial para Desenvolvedores** da Fiap.
+### **Definição do Problema**
 
-**Definição do problema**
+- Neste projeto, escolhemos abordar o problema de otimização de rotas, que é crucial para empresas de logística e entrega de produtos.
+- O objetivo é encontrar a rota mais eficiente para realizar entregas, minimizando custos e tempo, utilizando um algoritmo genético.
+- O sucesso será medido pela capacidade do algoritmo em reduzir o tempo total de entrega e os custos operacionais, mantendo a qualidade do serviço.
 
-- Escolha um problema real que possa ser resolvido por meio de otimização genética.
-- Descreva o problema, os objetivos e os critérios de sucesso.
+### **Testes e Resultados**
 
-**Testes e Resultados**
- - Realize testes para testar a eficácia do algorítimo.
+- Para avaliar a eficácia do algoritmo, serão realizados testes utilizando um dataset estático com a localização geográfica de todas as cidades do Brasil.
+- Os resultados serão analisados com base em métricas de desempenho como a redução de tempo de entrega e custos.
 
-**Documentação**
-Forneça uma documentação completa do projeto incluindo:
-- Descrição do problema
-- Detalhes da implementação do algorítmo
-- Análise dos resultados
-- Conclusões.
+### **Documentação**
 
-**Solução Escolhida**
+A documentação do projeto incluirá:
 
-- Escolhemos resolver o problema de **otimização de rotas**, utilizando um algoritmo genético, e que usa um dataset estático, com localização geográfica de todas as cidades do Brasil,
-que pode ser aplicado em empresas de **logísticas**, **entregas de produtos**, que são amplamente usados em empresa de diversas áreas, tais como, **e-commerce**, **varejo em geral**, ou em outras cenários, que requeiram algum tipo de otimização complexa.
+1. **Descrição do Problema**: Detalhamento do problema de otimização de rotas e sua importância.
+2. **Detalhes da Implementação do Algoritmo**: Explicação técnica do algoritmo genético utilizado, incluindo pseudocódigo e parâmetros.
+3. **Análise dos Resultados**: Discussão dos resultados obtidos nos testes, comparando a eficiência antes e depois da aplicação do algoritmo.
+4. **Conclusões**: Reflexão sobre os resultados, destacando os benefícios e possíveis melhorias futuras.
 
+### **Objetivo**
+
+- O nosso projeto, tem o objetivo de resolver o problema de otimização de rotas utilizando um algoritmo genético. Este algoritmo será aplicado a um dataset estático com a localização geográfica de todas as cidades do Brasil.
+- A solução é voltada para empresas de logística e entrega de produtos, sendo aplicável em diversos setores como e-commerce, varejo e outros cenários que necessitem de otimização complexa de rotas.
+
+#### **Cenários de Aplicação**
+
+1. **Logística e Entrega de Produtos**:
+   - **Problema**: Planejar rotas de entrega que minimizem o tempo e os custos operacionais.
+   - **Solução**: Utilizar algoritmos genéticos para determinar a sequência de entregas que otimiza a utilização de recursos e reduz o tempo total de percurso.
+
+2. **Serviços de Transporte Público**:
+   - **Problema**: Otimizar as rotas de ônibus ou vans escolares para cobrir todas as áreas de serviço com o mínimo de veículos e tempo.
+   - **Solução**: Aplicar algoritmos genéticos para encontrar a melhor rota que maximize a eficiência e minimize os custos operacionais, garantindo que todas as áreas sejam cobertas de maneira eficaz.
+
+3. **Gerenciamento de Frotas de Veículos**:
+   - **Problema**: Coordenar a utilização de uma frota de veículos para múltiplas tarefas de maneira eficiente.
+   - **Solução**: Utilizar algoritmos genéticos para agendar e otimizar as rotas dos veículos, reduzindo o tempo ocioso e maximizando a produtividade da frota.
+
+4. **Distribuição de Mercadorias em Centros de Distribuição**:
+   - **Problema**: Planejar a distribuição de mercadorias de um centro de distribuição para vários pontos de venda.
+   - **Solução**: Aplicar algoritmos genéticos para otimizar as rotas de distribuição, minimizando os custos de transporte e melhorando a eficiência do processo logístico.
+
+5. **Gestão de Serviços de Manutenção e Reparos**:
+   - **Problema**: Planejar as rotas de técnicos de manutenção para atender vários chamados de serviço em diferentes locais.
+   - **Solução**: Utilizar algoritmos genéticos para otimizar as rotas dos técnicos, reduzindo o tempo de deslocamento e melhorando a capacidade de resposta.
+
+- Com essas aplicações, demonstramos a versatilidade dos algoritmos genéticos na resolução de problemas complexos de otimização de rotas, destacando sua relevância em diversos setores da indústria.
 
 # Entregável
 **Participantes do Grupo 51**
@@ -37,13 +62,11 @@ que pode ser aplicado em empresas de **logísticas**, **entregas de produtos**, 
 
 **Links de referências**
 
-- [Video de apresentação no Youtube]( https://www.youtube.com/watch?v=7GNJm2SqVs8)
+- [Video de apresentação no Youtube](https://www.youtube.com/watch?v=ZDYcPT-mKgA)
 
-- [Arquivo Google Colab](https://colab.research.google.com/drive/1CzJozb4ODW4x3eoo89dBhHQgHiecXiJx?usp=sharing#scrollTo=W-fdEAJ6KOLf&uniqifier=3)
 - [Repositório Github](https://github.com/josehelioaraujo/Grupo51_TechChallenge_fase2/blob/main/Grupo51_TechChallenge_fase2.ipynb)
 
 - [DataSet das cidades do Brasil obtido do Kaggle](https://www.kaggle.com/datasets/gilbertotrindade/cidades-brasileiras?resource=download)
-
 # Fluxograma do Algoritmo Genético
 ![image](https://github.com/user-attachments/assets/b5a8bd5a-f881-417d-b1bf-58ba2967623e)
 
@@ -131,6 +154,29 @@ Após realizados os testes com diferentes entradas, diferentes números de cidad
 
 - Entretanto, o algorítmo genético manteve a constância do tempo de execução mesmo com uma maior quantidades de cidades, dessa forma, para um maior número de cidades o algoritmo genético consegue se sair melhor do que o de força bruta.
 
+Este projeto, pode ser utilizado em vários cenários envolve problemas complexos de otimização de rotas, tais como:
+
+- Logística e Entrega de Produtos
+- Serviços de Transporte Público  
+- Gerenciamento de Frotas de Veículos
+- Distribuição de Mercadorias em Centros de Distribuição
+- Gestão de Serviços de Manutenção e Reparos
+
+### Reflexão sobre os Resultados
+
+- Os resultados obtidos destacam a eficiência do algoritmo genético em cenários com um grande número de cidades, mostrando-se superior ao método de força bruta para problemas mais complexos.
+- Os principais benefícios observados incluem a capacidade de lidar com grandes volumes de dados e a manutenção de um tempo de execução consistente, independentemente do número de cidades envolvidas.
+
+**Pontos de Melhorias**
+
+- Apesar dos resultados positivos, há espaço para melhorias futuras. Algumas sugestões incluem:
+
+- **Aprimoramento dos Parâmetros do Algoritmo**: Ajustar os parâmetros do algoritmo genético, como a taxa de mutação e a seleção de pais, pode melhorar ainda mais o desempenho e a precisão das soluções encontradas.
+- **Integração com Dados em Tempo Real**: Incorporar dados em tempo real, como condições de tráfego e clima, pode aumentar a aplicabilidade e a eficácia das soluções de rotas geradas.
+- **Hibridização de Algoritmos**: Explorar a combinação de algoritmos genéticos com outras técnicas de otimização, como algoritmos de colônia de formigas ou de enxame de partículas, pode levar a resultados ainda mais robustos.
+- **Escalabilidade e Desempenho**: Investigar maneiras de melhorar a escalabilidade do algoritmo para lidar com datasets ainda maiores e mais complexos, garantindo que o tempo de execução permaneça eficiente.
+
+Essas melhorias potenciais podem tornar a solução proposta ainda mais eficaz e aplicável a uma gama maior de problemas de otimização de rotas, beneficiando diversas indústrias e setores.
  # Recursos adicionais
  
  - [Conversor texto para audio usado na narração do video](https://crikk.com/text-to-speech/portuguese/)
