@@ -64,6 +64,8 @@ A documentação do projeto incluirá:
 
 - [Video de apresentação no Youtube](https://www.youtube.com/watch?v=ZDYcPT-mKgA)
 
+- [Arquivo do Google Colab Notebook](https://colab.research.google.com/drive/1CzJozb4ODW4x3eoo89dBhHQgHiecXiJx?usp=sharing#scrollTo=W-fdEAJ6KOLf&uniqifier=3)
+  
 - [Repositório Github](https://github.com/josehelioaraujo/Grupo51_TechChallenge_fase2/blob/main/Grupo51_TechChallenge_fase2.ipynb)
 
 - [DataSet das cidades do Brasil obtido do Kaggle](https://www.kaggle.com/datasets/gilbertotrindade/cidades-brasileiras?resource=download)
